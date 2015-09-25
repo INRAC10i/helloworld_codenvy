@@ -1,3 +1,5 @@
+//INRAC10i
+
 package com.codenvy.template.android;
 
 import android.app.Activity;
